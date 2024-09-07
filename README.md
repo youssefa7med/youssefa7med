@@ -29,7 +29,7 @@ I am a **Data Scientist** with expertise in data analysis, machine learning, and
 
 ---
 
-### Projects
+### Some Projects
 
 #### 1. [🏆 **FIFA 23 Analysis**](https://github.com/youssefa7med/Fifa23)
 **Objective:** Analyze FIFA 23 player statistics to uncover trends in player performance across clubs, nationalities, and attributes.  
