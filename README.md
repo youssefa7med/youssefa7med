@@ -4,6 +4,8 @@
 
 **Data Scientist | Specializing in Machine Learning, Data Analytics & Web Scraping**
 
+![Profile Image](https://youssef-ahmed-cv.streamlit.app/~/+/media/03b41f4ded5b0d8323474f21401147938076ae5b525c5b8b06cf4144.png)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/youssef-ahmed-9a5643244)
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?logo=github)](https://github.com/youssefa7med)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://api.whatsapp.com/send?phone=201000139417&text=%F0%9F%93%9E)
@@ -78,4 +80,3 @@ I am a **Data Scientist** with expertise in data analysis, machine learning, and
 - 📫 **Email:** yaa2003ya@gmail.com
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/youssef-ahmed-9a5643244)
 
----
