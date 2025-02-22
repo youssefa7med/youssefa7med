@@ -4,7 +4,6 @@
 
 **Data Scientist | Specializing in Machine Learning, Data Analytics & Web Scraping**
 
-![Profile Image](https://youssef-ahmed-cv.streamlit.app/~/+/media/03b41f4ded5b0d8323474f21401147938076ae5b525c5b8b06cf4144.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/youssef-ahmed-9a5643244)
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?logo=github)](https://github.com/youssefa7med)
